@@ -1,0 +1,4 @@
+cmd.exe /C copy /Y "${BuildArtifactFileBaseName}.elf" "..\${BuildArtifactFileBaseName}.stldr"
+
+For generating a random test binary file
+https://onlinefiletools.com/generate-random-binary-file
